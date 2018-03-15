@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Twitter</string>
+    <string name="Wel">Welcome</string>>
+    <string name="sign_up">Sign up for Twitter</string>
+    <string name="sign_in">Sign In</string>
+    <string name="input_username">Username or Email</string>
+    <string name="input_password">Password</string>
+</resources>
